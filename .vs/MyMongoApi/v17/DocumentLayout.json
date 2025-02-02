@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|c:\\users\\toche\\source\\repos\\mymongoapi\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|solutionrelative:productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|c:\\users\\toche\\source\\repos\\mymongoapi\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|solutionrelative:productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|c:\\users\\toche\\source\\repos\\mymongoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|c:\\users\\toche\\source\\repos\\mymongoapi\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|solutionrelative:mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|c:\\users\\toche\\source\\repos\\mymongoapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|c:\\users\\toche\\source\\repos\\mymongoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8F41BD4-A306-41C8-AD84-A5270EE12C3F}|MyMongoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T03:13:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsController.cs",
+              "ToolTip": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\ProductsController.cs",
+              "RelativeToolTip": "ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:02:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.cs",
+              "ToolTip": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\ProductService.cs",
+              "RelativeToolTip": "ProductService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:00:29.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:00:04.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:56:19.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\toche\\source\\repos\\MyMongoApi\\MongoDBSettings.cs",
+              "RelativeToolTip": "MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:59:40.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
